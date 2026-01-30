@@ -1,0 +1,46 @@
+p{
+    color:crimson;
+    background-color: rgb(231, 250, 60);
+}
+
+div{
+background-color:bisque ;
+}
+.wrapper{
+    background-color: rgb(21, 207, 15);
+}
+
+/* .container{
+    background-color: black;
+    color: aliceblue;
+} */
+
+#hello{
+    background-color: rgb(139, 15, 58);
+}
+
+p{
+    background-color: aquamarine;
+    color: aliceblue;
+}
+
+/* ul li:nth-child(9){
+    background-color: aquamarine;
+} */
+
+/* ul li:nth-last-child(9){
+    background-color: aquamarine;
+} */
+
+/* ul li:nth-last-of-type(3n){
+    background-color: aquamarine;
+} */
+
+ul li:nth-of-type(4n+3){
+    background-color: aqua;
+}
+
+ul li:hover{
+    background-color: blue;
+    color: aliceblue;
+}
